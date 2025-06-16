@@ -48,4 +48,5 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 domain: rastala.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+google_analytics: G-YNT3RZ5TTT
 url: https://rastala.github.io  # the base hostname and protocol for your site, e.g. http://example.com
