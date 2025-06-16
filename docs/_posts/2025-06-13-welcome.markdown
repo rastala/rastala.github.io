@@ -4,6 +4,6 @@ title:  "Welcome!"
 date:   2025-06-13
 categories: meta
 ---
-## Welcome to [rastala.github.io](https//rastala.github.io)!
+## Welcome to [rastala.github.io](https://rastala.github.io)!
 
 I’m hoping to cover various interesting topics around technology and science that I’m knowledgeable of or am working on. Expect to find tutorials, hacks, deep-dives, and occasional opinion pieces.
