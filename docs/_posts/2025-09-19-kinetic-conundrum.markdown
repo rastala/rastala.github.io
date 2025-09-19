@@ -11,7 +11,7 @@ I wanted to keep the scope small, to make it easier to release quickly to get fe
 minimum viable product style. The limited scope meant few things:
 
  * Simple game mechanics and user interface.
- * Simple graphics that I could create in DYI mode without need for professional caliber art and animations, meaning basic shapes like spheres or tiles.
+ * Simple graphics that I could create in DIY mode without need for professional caliber art and animations, meaning basic shapes like spheres or tiles.
  * Leverage an existing game engine instead of creating my own.
    
 My first idea was to create a kind of minigolf-billiards hybrid with the goal of pocketing target balls, but with more dynamic gameplay with 
