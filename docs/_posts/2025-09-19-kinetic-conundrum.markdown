@@ -87,6 +87,7 @@ project or start something new. Some possible future improvements I’ve though 
  * New gameplay elements. I have some creative ideas here. Also it seems new elements are needed to create new puzzles that don’t repeat earlier ideas.
  * In the same spirit, more elaborate physics interactions.
  * Fancier graphics. Animations, shaders etc. are something I’d like to learn.
- * urrently, the coin collecting is a bit of disconnected game mechanic, and could be worked into a more interesting part of scoring or game progression.
+ * Currently, the coin collecting is a bit of disconnected game mechanic, and could be worked into a more interesting part of scoring or game progression.
+ * Related to previous, a proper high score system, possibly with time bonuses.
 
 To give Kinetic Conundrum a try, visit [the itch.io project page]( https://rastala-games.itch.io/kinetic-conundrum).
