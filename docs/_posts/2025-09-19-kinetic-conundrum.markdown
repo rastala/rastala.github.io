@@ -22,7 +22,7 @@ Therefore, I pivoted to the current design that turned out to be more playable.
 
 Let’s look of one of the levels - spoiler alert for level 7!
 
-![video clip of level 7](https://github.com/user-attachments/assets/ba1f8e2e-7737-4b07-a4fd-04b9a17c1b77)
+![Video clip of level 7](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGN3dXloeGNkcDkxMW9xMGFjZ3dwNHh4NDJ5Njh5c203cWxraXBseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gNnU3tr180dY4XYq26/giphy.gif)
 
 The goal is to drive the blue target ball at the lower platform into the pocket nearby. What makes it a puzzle instead of straightforward 
 platformer is that there’s no direct route for the player-controlled cyan ball to get to the blue ball. Instead, the player has to figure 
