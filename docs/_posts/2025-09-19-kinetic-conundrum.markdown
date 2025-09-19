@@ -22,7 +22,7 @@ Therefore, I pivoted to the current design that turned out to be more playable.
 
 Let’s look of one of the levels - spoiler alert for level 7!
 
-![Kinetic Conundrum Level 7 video clip](https://github.com/rastala/rastala.github.io/blob/main/docs/assets/images/kinetic_conundrum_rec_medium.gif)
+![video clip of level 7](https://github.com/user-attachments/assets/ba1f8e2e-7737-4b07-a4fd-04b9a17c1b77)
 
 The goal is to drive the blue target ball at the lower platform into the pocket nearby. What makes it a puzzle instead of straightforward 
 platformer is that there’s no direct route for the player-controlled cyan ball to get to the blue ball. Instead, the player has to figure 
